@@ -1,0 +1,1378 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="preload" href="/fonts/poppins.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+	<title>
+		Live - Stmify	</title>
+    <link rel="icon" href="https://stmify.com/wp-content/themes/stmify/assets/img/Stmify_icon.png" type="image/png" loading="lazy" alt="icon Image">
+	<!-- Google Analytics GA4 Tag(gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-F1CH5TQS42"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-F1CH5TQS42');
+	</script>
+    <meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v25.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Live - Stmify</title>
+	<meta name="description" content="Discover a world of entertainment with Stmify. Explore live TV channels, on-demand content, and more. Enjoy seamless streaming in 4K &amp; HD quality, tailored to your viewing preferences." />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Live - Stmify" />
+	<meta property="og:description" content="Discover a world of entertainment with Stmify. Explore live TV channels, on-demand content, and more. Enjoy seamless streaming in 4K &amp; HD quality, tailored to your viewing preferences." />
+	<meta property="og:url" content="https://stmify.com/live/" />
+	<meta property="og:site_name" content="Stmify" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://stmify.com/live/","url":"https://stmify.com/live/","name":"Live - Stmify","isPartOf":{"@id":"https://stmify.com/#website"},"datePublished":"2025-02-23T05:54:59+00:00","description":"Discover a world of entertainment with Stmify. Explore live TV channels, on-demand content, and more. Enjoy seamless streaming in 4K & HD quality, tailored to your viewing preferences.","breadcrumb":{"@id":"https://stmify.com/live/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://stmify.com/live/"]}]},{"@type":"BreadcrumbList","@id":"https://stmify.com/live/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://stmify.com/"},{"@type":"ListItem","position":2,"name":"Live"}]},{"@type":"WebSite","@id":"https://stmify.com/#website","url":"https://stmify.com/","name":"Stmify","description":"Watch Live TV Channels Online | 4K &amp; HD Streaming Anytime, Anywhere","alternateName":"StmEcho","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://stmify.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.plyr.io' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//cdn.dashjs.org' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/stmify.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://stmify.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='stmify-style-css' href='https://stmify.com/wp-content/themes/stmify/style.css?ver=1750353355' type='text/css' media='all' />
+<link rel='stylesheet' id='cdn-plyr-css' href='https://cdn.plyr.io/3.7.2/plyr.css?ver=3.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='stmify-font-awesome-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css?ver=5.15.4' type='text/css' media='all' />
+<style type="text/css">@font-face {font-family:Poppins;font-style:normal;font-weight:200;src:url(/cf-fonts/s/poppins/5.0.11/latin-ext/200/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:200;src:url(/cf-fonts/s/poppins/5.0.11/devanagari/200/normal.woff2);unicode-range:U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:200;src:url(/cf-fonts/s/poppins/5.0.11/latin/200/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:300;src:url(/cf-fonts/s/poppins/5.0.11/latin-ext/300/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:300;src:url(/cf-fonts/s/poppins/5.0.11/latin/300/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:300;src:url(/cf-fonts/s/poppins/5.0.11/devanagari/300/normal.woff2);unicode-range:U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:400;src:url(/cf-fonts/s/poppins/5.0.11/latin/400/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:400;src:url(/cf-fonts/s/poppins/5.0.11/latin-ext/400/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:400;src:url(/cf-fonts/s/poppins/5.0.11/devanagari/400/normal.woff2);unicode-range:U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:500;src:url(/cf-fonts/s/poppins/5.0.11/latin/500/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:500;src:url(/cf-fonts/s/poppins/5.0.11/latin-ext/500/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:500;src:url(/cf-fonts/s/poppins/5.0.11/devanagari/500/normal.woff2);unicode-range:U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:600;src:url(/cf-fonts/s/poppins/5.0.11/latin-ext/600/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:600;src:url(/cf-fonts/s/poppins/5.0.11/devanagari/600/normal.woff2);unicode-range:U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:600;src:url(/cf-fonts/s/poppins/5.0.11/latin/600/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:700;src:url(/cf-fonts/s/poppins/5.0.11/devanagari/700/normal.woff2);unicode-range:U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:700;src:url(/cf-fonts/s/poppins/5.0.11/latin/700/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:700;src:url(/cf-fonts/s/poppins/5.0.11/latin-ext/700/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}</style>
+<link rel='stylesheet' id='stmify-player-css' href='https://stmify.com/wp-content/themes/stmify/assets/css/stmify-player.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='stmify-rating-css' href='https://stmify.com/wp-content/themes/stmify/assets/css/popup.css?ver=1.0.0' type='text/css' media='all' />
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<script src="https://stmify.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" defer></script><script src="https://stmify.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" defer></script><link rel="https://api.w.org/" href="https://stmify.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://stmify.com/wp-json/wp/v2/pages/2685" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://stmify.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.1" />
+<link rel='shortlink' href='https://stmify.com/?p=2685' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://stmify.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstmify.com%2Flive%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://stmify.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstmify.com%2Flive%2F&#038;format=xml" />
+<!-- Generated by Jetpack Social -->
+<meta property="og:title" content="Live">
+<meta property="og:url" content="https://stmify.com/live/">
+<meta property="og:description" content="This is the Stream Live page content.">
+<!-- / Jetpack Social -->
+    <style>
+		.pre-loader-6 {
+			border: 5px solid #1ed760;
+			border-top-color: transparent;
+		}
+		.content .links li a:hover,
+		.content .links li label:hover,
+		.content .current-menu-item a,
+		.flex-child-ft ul li a:hover,
+		.light .content .links li a:hover,
+		.light .content .links li label:hover,
+		.light .content .current-menu-item a,
+		.light .flex-child-ft ul li a:hover {
+			color: #1ed760 !important;
+		}
+		.search-box .post-type-select option:checked {
+			background-color: #1ed760;
+		}
+        .contact-info p a, .post_content a, a, .live-event a, .flex-child-ft p a, .ft-copyright a {
+            color: #1ed760;
+        }
+        .welcome h2 {
+            border-left: solid 3px #1ed760;
+        }
+        .container.welcome span a {
+            background-color: #1ed760;
+        }
+		.container.welcome .nav_items_module a i:hover {
+			color: #1ed760;
+		}
+		.content-wrapper .item-wrapper img, .fm-content .fm-item img, .archive-content .archive-item img, .blog-item-style img, .similar-posts img {
+			border: 2px solid #1ed760;
+		}
+		.img-wrapper .fa-play-circle {
+			color: #1ed760;
+		}
+		.premium-icon {
+			background-color: #ffcc00;
+		}
+		.quality-tag {
+			background-color: #874ed8;
+		}
+		.similar-posts .similar-post-text:hover h2, .item-wrapper:hover h2, .fm-item:hover h2, .archive-item:hover h2, 
+		.light .item-wrapper:hover h2, .light .fm-item:hover h2, .light .archive-item:hover h2, 
+		.content-wrapper .item-wrapper a:hover h2, .fm-content .fm-item a:hover h2, .archive-content .archive-item a:hover h2,
+		.blog-item-style:hover h2,
+		.light .blog-item-style:hover h2,
+		.post_infos li a:hover,
+		.light .post_infos li a:hover {
+			color: #1ed760 !important;
+		}
+		.social-icons a:hover,
+		.light .social-icons a:hover,
+		.post_content .social-icons a i:hover,
+		.light .post_content .social-icons a i:hover{
+			color: #1ed760 !important;
+		}
+		.sp_flex .image img, .left-section img {
+			border: 1px solid #1ed760;
+		}
+		.stars i {
+			color: #1ed760;
+		}
+		.stars i.selected {
+			color: gold;
+		}
+		.rating-value {
+			background-color: #1ed760;
+		}
+		.right-section i {
+			color: #1ed760;
+		}
+		.right-section #favorite-btn .remove {
+			color: gold;
+		}
+		h3, .contact-info h3, .contact-form h3 {
+			color: #1ed760;
+		}
+		.options {
+			border: 1px solid #1ed760;
+		}
+		.btn-show-form:hover i {
+			color: #1ed760;
+		}
+		video,
+		.iframe-container iframe {
+			border: 1px solid #1ed760;
+		}
+		.red-text {
+			color: red;
+		}
+		.iframe-specs #free:checked + label[for="free"], .iframe-specs #premium:checked + label[for="premium"] {
+			background-color: #1ed760;
+		}
+		.iframe-specs > label {
+			border: 1px solid #1ed760;
+		}
+		.iframe-specs .iframe-tabs input:checked + label,
+		.iframe-tabs2 input:checked + label		{
+			background-color: #1ed760;
+		}
+		.iframe-specs .iframe-head {
+			background-color: #1ed760;
+		}
+		.iframe-specs textarea {
+			border: 1px solid #1ed760;
+		}
+		.pagination a:hover,
+		.light .pagination a:hover,
+		.pagination .current {
+			background-color: #1ed760;
+		}
+		.pagination .current {
+			border: 1px solid #1ed760;
+		}
+		.cat a, .full_post_area .sidebar .author_about span {
+			background-color: #1ed760;
+		}
+		.cats ul li a:hover,
+		.light .cats ul li a:hover	{
+			background-color: #1ed760;
+		}
+		.comment-template .comment-form form input[type="text"]:hover,
+		.comment-template .comment-form form input[type="email"]:hover,
+		.comment-template .comment-form form input[type="url"]:hover,
+		.comment-template .comment-form form textarea:hover,
+		.light .comment-template .comment-form form input[type="text"]:hover,
+		.light .comment-template .comment-form form input[type="email"]:hover,
+		.light .comment-template .comment-form form input[type="url"]:hover,
+		.light .comment-template .comment-form form textarea:hover,
+		.light .comment-template .comment-form form textarea:hover {
+			border: 1px solid #1ed760 !important;
+		}
+		.comment-template .comment-form form input.submit {
+			background-color: #1ed760;
+		}
+    </style>
+    <script defer >(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://shebudriftaiter.net/tag.min.js',9072988,document.body||document.documentElement)</script>
+<script defer >(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('groleegni.net',9075344,document.createElement('script'))</script>
+    <script defer >(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('gizokraijaw.net',8480498,document.createElement('script'))</script></head>
+<body class="wp-singular page-template page-template-live page-template-live-php page page-id-2685 wp-theme-stmify">
+	<div id="loader">
+		<div class="loader-container">
+			<div id="preloader">
+				<div class="pre-loader-6"></div>
+			</div>
+		</div>
+	</div><!-- #loader -->
+	<script>
+	// Preloader script
+	window.addEventListener("load", function() {
+		const loader = document.getElementById("loader");
+		const metaBanner = document.querySelector(".meta-banner");
+		const chatToggle = document.getElementById("chat-toggle");
+		const header = document.querySelector("header");
+		const main = document.querySelector("main");
+		const footer = document.querySelector("footer");
+
+		if (loader) {
+			loader.style.display = "none";
+		}
+
+		// Show banner img after preloader is hidden
+		if (metaBanner) {
+			metaBanner.style.display = "flex"; // or "block"
+		}
+
+		// Show chat icon after preloader is hidden
+		if (chatToggle) {
+			chatToggle.style.display = "flex"; // or "block"
+		}
+
+		// Show header, main, and footer after loading
+		if (header) {
+			header.style.display = "block";
+		}
+		if (main) {
+			main.style.display = "block";
+		}
+		if (footer) {
+			footer.style.display = "block";
+		}
+	});
+	</script>
+<header>
+  <div class="wrapper">
+    <nav role="navigation">
+      <input type="checkbox" id="show-menu">
+	  <div class="toggle-container">
+        <label for="show-menu" class="menu-icon"><i class="fas fa-bars"></i></label>
+	  </div>
+      <div class="content">
+		<div class="logo">
+		<a href="https://stmify.com/">
+				<img src="https://stmify.com/wp-content/themes/stmify/assets/img/Stmify_Logo_RGB_White-1.png" alt="Stmify Logo" class="logo" width="50" height="50" loading="lazy" decoding="async" fetchpriority="high">
+			</a>		</div>
+		
+            <div class="menu-container"><ul id="menu-header-menu" class="links"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3274"><a href="https://stmify.com/live-channel/">Live Channel</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-717"><a href="https://stmify.com/tv-genres/">Genres</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-715"><a href="https://stmify.com/tv-countries/">Countries</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-716"><a href="https://stmify.com/tv-languages/">Languages</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1056"><a href="https://stmify.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3288"><a href="https://stmify.com/translate/" class="translate">Translate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1679"><a href="https://stmify.com/login/" class="login">Login</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1680"><a href="https://stmify.com/register/" class="register">Register</a></li>
+</ul></div>			
+      </div>
+		<!-- Add this where you want the search form to appear -->
+		<input type="checkbox" id="show-search" class="show-search-checkbox">
+		<div class="button-container">
+			<label for="show-search" class="search-icon"><i class="fas fa-search"></i></label>
+			<div id="google_translate_element"></div>
+			<a href="https://stmify.com/translate/" class="btn-translate"><i class="fas fa-language"></i><span class="translate-text">Translate</span></a>
+							<a href="https://stmify.com/login/" class="btn-login"><i class="fas fa-sign-in-alt"></i><span class="login-text">Login</span></a>
+				<a href="https://stmify.com/register/" class="btn-register"><i class="fas fa-user-plus"></i><span class="register-text">Register</span></a>
+					</div>
+
+		<form action="https://stmify.com/" method="get" class="search-box">
+			<!-- Select Dropdown for Post Types -->
+			<select  id="location" name="post_type" class="post-type-select">
+				<option value="post">Post</option><option value="live-event">Live Event</option><option value="live-tv">Live TV</option><option value="fm-radio">Fm Radio</option>			</select>
+			<input id="searchInput" type="text" name="s" placeholder="Search Stmify" required>
+			<button type="submit" class="go-icon"><i class="fas fa-long-arrow-alt-right"></i></button>
+		</form>
+		
+    </nav>
+	<div id="search-results"></div>
+
+<script>
+var searchInput = document.getElementById('searchInput');
+var searchResults = document.getElementById('search-results');
+var postTypeSelect = document.getElementById('location'); // Dropdown for post type
+
+// Function to fetch results and handle empty search terms
+function fetchResults() {
+    var searchTerm = searchInput.value.trim(); // Ensure the input is trimmed
+    var postType = postTypeSelect.value; // Get selected post type
+
+    if (searchTerm === '') {
+        searchResults.innerHTML = ''; // Clear previous results
+        searchResults.style.display = 'none'; // Hide the results container
+        return;
+    }
+
+    searchResults.style.display = 'block'; // Show results container
+
+    // Simulate an AJAX call for fetching results
+    var xhr = new XMLHttpRequest();
+    xhr.open('POST', 'https://stmify.com/wp-admin/admin-ajax.php');
+    xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+            searchResults.innerHTML = xhr.responseText; // Populate results
+        }
+    };
+    xhr.send('action=live_search&searchTerm=' + encodeURIComponent(searchTerm) + '&postType=' + encodeURIComponent(postType));
+}
+
+// Event listener for input keyup
+searchInput.addEventListener('keyup', function() {
+    fetchResults();
+});
+
+// Event listener to hide results when clicking outside
+document.addEventListener('click', function(event) {
+    if (!searchInput.contains(event.target) && !searchResults.contains(event.target)) {
+        searchResults.style.display = 'none'; // Hide results container
+    }
+});
+</script>
+  </div>
+</header>
+<!-- Main Section -->
+<main>
+		
+        <!-- Player Section -->
+        
+<div class="single-hero lazy-bg" data-bg="https://stmify.com/wp-content/uploads/2025/04/584-s.webp"> 
+    <div id="hero-bg" style="backdrop-filter: blur(10px);"> <!-- Blur effect here -->
+		<div class="stmify-player">
+		
+			<!-- Video Player Containers -->
+			<div class="player-container" id="hlsPlayerContainer" style="position: relative; display:none;">
+				<div style="position: relative;">
+					<video id="video" controls></video>
+					<div id="UnMutePlayer">
+						<button class="unmute-button" onclick="WSUnmute()">
+							<img 
+							src="https://stmify.com/wp-content/themes/stmify/assets/img/unmute/Speaker_Icon.svg" 
+							alt="Unmute Speaker Icon" 
+							width="30" height="30" 
+							loading="lazy" 
+							decoding="async">
+							<span>Unmute</span>
+						</button>
+					</div>
+									</div>
+				<p class="player-text">Wait 15 seconds for the video to load. If it doesn’t appear, refresh the page or switch the video source by clicking the Servers button and selecting an available option.</p>
+			</div>
+
+			<div class="player-container" id="tsPlayerContainer" style="position: relative; display:none;">
+				<div style="position: relative;">
+					<video id="videoElement" controls></video>
+					<div id="UnMutePlayer">
+						<button class="unmute-button" onclick="WSUnmute()">
+							<img 
+							src="https://stmify.com/wp-content/themes/stmify/assets/img/unmute/Speaker_Icon.svg" 
+							alt="Unmute Speaker Icon" 
+							width="30" height="30" 
+							loading="lazy" 
+							decoding="async">
+							<span>Unmute</span>
+						</button>
+					</div>
+									</div>
+				<p class="player-text">Wait 15 seconds for the video to load. If it doesn’t appear, refresh the page or switch the video source by clicking the Servers button and selecting an available option.</p>
+			</div>
+
+			<div class="player-container" id="mpdPlayerContainer" style="position: relative; display:none;">
+				<div style="position: relative;">
+					<video id="videoElement2" controls></video>
+					<div id="UnMutePlayer">
+						<button class="unmute-button" onclick="WSUnmute()">
+							<img 
+							src="https://stmify.com/wp-content/themes/stmify/assets/img/unmute/Speaker_Icon.svg" 
+							alt="Unmute Speaker Icon" 
+							width="30" height="30" 
+							loading="lazy" 
+							decoding="async">
+							<span>Unmute</span>
+						</button>
+					</div>
+									</div>
+				<p class="player-text">Wait 15 seconds for the video to load. If it doesn’t appear, refresh the page or switch the video source by clicking the Servers button and selecting an available option.</p>
+			</div>
+
+			<div class="player-container" id="embedPlayerContainer" style="position: relative;">
+				<div class="iframe-container" id="iframeContainer" style="position: relative;">
+					<iframe id="videoElement3" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen controls></iframe>
+
+									</div>
+				<p class="player-text">Wait 15 seconds for the video to load. If it doesn’t appear, refresh the page or switch the video source by clicking the Servers button and selecting an available option.</p>
+			</div>
+			<!-- Audio Player Container -->
+			<div class="player-audio-container" id="hlsPlayerAudioContainer" style="display:none;">
+				<audio id="audio" controls></audio>
+			</div>
+			<div class="player-audio-container" id="urlPlayerAudioContainer" style="display:none;">
+				<audio id="audioElement" controls></audio>
+			</div>
+		</div>
+    </div>
+</div>
+
+<div class="container welcome">
+    <h2>Live Sources</h2>
+    <div class="nav_items_module">
+        <p>364 Views</p>
+    </div>
+</div>
+<div class="batton-container">
+    <div class="batton">
+        <div id="playeroptions" class="options">
+            <ul id="playeroptionsul">
+                                    <li class="scroll" id="player-option-1" onclick="loadVideoStream('embed-1')">
+                        <i class="fas fa-play-circle play-icon"></i>
+                        <span class="title">
+                            NBC Sports Philadelphia 
+							 
+                             HD                        </span>
+                        <span class="loader"></span>
+						<span class="flag">
+							<img 
+								src="https://stmify.com/wp-content/themes/stmify/assets/img/flags/us.png" 
+								alt="US Flag" 
+								width="18" height="12" 
+								loading="lazy" 
+								decoding="async">
+						</span>
+                    </li>
+                                
+				<!-- External Link Button from Event Details -->
+				
+                <!-- External Sources -->
+                
+                <!-- Audio Sources -->
+                            </ul>
+        </div>
+					<p class="note">
+				<b><span class='red-text'>N.B.</span></b> - If the video source in the Servers button doesn't work, try connecting to a VPN using the flag icon next to it and then play the video. 
+				If the video still doesn't load, click the <i class='fas fa-exclamation-circle'></i> button to submit a report to us.
+			</p>
+		    </div>
+</div>
+        	<div class="single-wraper">
+		<div class="single-page">
+			<div class="left-section ">
+			<img width="150" height="84" src="https://stmify.com/wp-content/uploads/2025/04/584-s-150x84.webp" class="attachment-live-tv-single size-live-tv-single wp-post-image wp-post-image" alt="NBC Sports Philadelphia" loading="lazy" decoding="async" fetchpriority="low" width="150" height="84" srcset="https://stmify.com/wp-content/uploads/2025/04/584-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/04/584-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/584-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/584-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/584-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/584-s.webp 1920w" sizes="auto, (max-width: 150px) 100vw, 150px" />			</div>
+			
+			<div class="middle-section">
+				<h2>NBC Sports Philadelphia</h2>
+				<div class="rating">
+					<div class="stars" id="rating-stars-display-3066">
+													<i class="fa fa-star" data-value="1"></i>
+													<i class="fa fa-star" data-value="2"></i>
+													<i class="fa fa-star" data-value="3"></i>
+													<i class="fa fa-star" data-value="4"></i>
+													<i class="fa fa-star" data-value="5"></i>
+											</div>
+					<span class="rating-value" id="average-rating-3066">0.0</span>
+					<span class="views" id="total-views-3066">0 votes</span>
+				</div>
+			</div>
+
+			<div class="right-section">
+				<i class="fa fa-star wishlist-icon" id="rating-button-3066"></i>
+				<div id="favorite-btn"><i class="fa fa-heart wishlist-icon"></i></div>
+			</div>
+		</div>
+	</div>
+<div id="rating-popup-3066" class="rating-popup">
+	<div class="rating-popup-content">
+		<span class="close-popup">&times;</span>
+		<h3>Rate this Channel</h3>
+		<div class="stars" id="rating-stars-3066" style="display: block;">
+							<i class="fa fa-star" data-value="1"></i>
+							<i class="fa fa-star" data-value="2"></i>
+							<i class="fa fa-star" data-value="3"></i>
+							<i class="fa fa-star" data-value="4"></i>
+							<i class="fa fa-star" data-value="5"></i>
+					</div>
+		<div class="popup-actions">
+			<button id="submit-rating-3066">Submit</button>
+		</div>
+	</div>
+</div>
+<div id="login-modal" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<p>Please login to add posts to your favorites.</p>
+		<a href="https://stmify.com/login" id="login-link">Login</a>
+	</div>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+	var favoriteButton = document.getElementById('favorite-btn');
+	var loginModal = document.getElementById('login-modal');
+	/* var loginLink = document.getElementById('login-link'); */
+	var closeModal = document.getElementsByClassName('close')[0];
+
+	function updateFavoriteButtonText(isFavorite) {
+		// Update the button text
+		if (isFavorite) {
+			favoriteButton.innerHTML = '<i class="fa fa-heart wishlist-icon remove"></i>';
+		} else {
+			favoriteButton.innerHTML = '<i class="fa fa-heart wishlist-icon"></i>';
+		}
+	}
+
+	function handleAjaxResponse(xhr) {
+		// Handle the AJAX response
+		if (xhr.status === 200) {
+			var response = JSON.parse(xhr.responseText);
+
+			if (response.success) {
+				updateFavoriteButtonText(response.isFavorite);
+			} else {
+				console.log('Request failed. Returned error: ' + response.message);
+			}
+		} else {
+			console.log('Request failed. Returned status of ' + xhr.status);
+		}
+	}
+
+	function handleLogin() {
+		// Redirect the user to the login page
+		window.location.href = 'https://stmify.com/wp-login.php';
+	}
+
+	favoriteButton.addEventListener('click', function(event) {
+		event.preventDefault(); // Prevent the default link behavior
+
+		var isLoggedIn = false;
+
+		if (isLoggedIn) {
+			// Make an AJAX request to the server to handle the favorite action
+			var xhr = new XMLHttpRequest();
+			xhr.open('POST', 'https://stmify.com/wp-admin/admin-ajax.php', true);
+			xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
+			xhr.send('action=add_to_favorite&post_id=3066');
+
+			xhr.onload = function() {
+				handleAjaxResponse(xhr);
+			};
+		} else {
+			// Display the login modal
+			loginModal.style.display = 'block';
+		}
+	});
+
+	/* loginLink.addEventListener('click', function(event) {
+		event.preventDefault();
+		handleLogin();
+	}); */
+
+	closeModal.addEventListener('click', function() {
+		loginModal.style.display = 'none';
+	});
+
+	window.addEventListener('click', function(event) {
+		if (event.target === loginModal) {
+			loginModal.style.display = 'none';
+		}
+	});
+
+	document.addEventListener('keydown', function(event) {
+		if (event.key === 'Escape' && loginModal.style.display === 'block') {
+			loginModal.style.display = 'none';
+		}
+	});
+
+	// Check the initial favorite status of the post
+	var xhr = new XMLHttpRequest();
+	xhr.open('POST', 'https://stmify.com/wp-admin/admin-ajax.php', true);
+	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
+	xhr.send('action=check_favorite_status&post_id=3066');
+
+	xhr.onload = function() {
+		handleAjaxResponse(xhr);
+	};
+});
+
+</script>        <div class="content-wraper">
+	<div id="iframe-specs" class="iframe-specs">
+		<p class="iframe-heading">Iframe specs</p>
+
+
+		<!-- Radio buttons to toggle between Free and Premium -->
+		<input type="radio" name="iframe-toggle" id="free" checked>
+		<label for="free" class="free" style="display:"> Free </label>
+
+		<input type="radio" name="iframe-toggle" id="premium">
+		<label for="premium" class="premium" style="display:;"> Premium </label>
+<!-- Free Iframes --><div class="iframe free-iframe iframe-tabs">    <!-- Tab Navigation -->    <span class="iframe-list">iFrame List:</span><input type="radio" id="iframe-tab-1" name="iframe-tab" checked><label for="iframe-tab-1">Tab 1</label>    <!-- Tab Content -->    <div class="iframe-content">        <div class="iframe-section" id="iframe-content-1">            <div class="iframe-head">                <span class="iframe-src">iFrame src - 1</span>                <button class="copy-btn" onclick="copyToClipboard('iframe-content-1')">                    <i class="fas fa-copy copy-icon"></i> <!-- Copy Icon -->                    <i class="fas fa-check check-icon" style="display: none;"></i> <!-- Check Icon (hidden initially) -->                    Copy                </button>            </div>            <textarea readonly="">&lt;iframe src="//cdn.stmify.com/embed-free.php?id=NBC_Sports_Philadelphia" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"&gt;&lt;/iframe&gt;</textarea>        </div>    </div><p class="note">
+    <b><span class="red-text">N.B.</span></b> - If you use our iframe source, please ensure you embed it correctly on your platform.  
+    Click the <i class="fas fa-copy copy-icon"></i> <b>Copy</b> button to copy the iframe code and paste it properly to avoid playback issues.
+</p></div><!-- Premium Iframes --><div class="iframe premium-iframe iframe-tabs2">    <!-- Tab Navigation -->    <span class="iframe-list">iFrame List:</span><input type="radio" id="iframe-tab2-1" name="iframe-tab2" checked><label for="iframe-tab2-1">Tab 1</label>    <!-- Tab Content -->    <div class="iframe-content2">        <div class="iframe-section2" id="iframe-content2-1">            <div class="iframe-head">                <span class="iframe-src">iFrame src - 1</span>                <button class="copy-btn" onclick="copyToClipboard('iframe-content2-1')">                    <i class="fas fa-copy copy-icon"></i> <!-- Copy Icon -->                    <i class="fas fa-check check-icon" style="display: none;"></i> <!-- Check Icon (hidden initially) -->                    Copy                </button>            </div>            <textarea readonly="">&lt;iframe src="//cdn.stmify.com/embed.php?id=NBC_Sports_Philadelphia" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"&gt;&lt;/iframe&gt;</textarea>        </div>    </div><p class="note">
+    <b><span class="red-text">N.B. For Premium iframe</span></b> - Please comply with our Premium <a href="https://stmify.com/">Iframe Policy</a> when embedding our iframe source. For uninterrupted playback, ensure proper integration on your platform. Click the <i class="fas fa-copy copy-icon"></i> <b>Copy</b> button to copy the iframe code and paste it accurately to avoid any issues.
+</p></div>	</div>
+</div>
+
+<script>
+// Function to copy the iframe code to clipboard
+function copyToClipboard(sectionId) {
+    var textarea = document.querySelector(`#${sectionId} textarea`);
+    textarea.select();
+    document.execCommand('copy');
+    
+    // Get the button and icons inside the button
+    var button = document.querySelector(`#${sectionId} .copy-btn`);
+    var copyIcon = button.querySelector('.copy-icon');
+    var checkIcon = button.querySelector('.check-icon');
+    
+    // Hide copy icon and show check icon
+    copyIcon.style.display = 'none';
+    checkIcon.style.display = 'inline'; 
+    
+    // Alert to indicate successful copy
+    alert('Iframe code copied to clipboard!');
+    
+    // Optional: Reset the icons back after a delay (e.g., 2 seconds)
+    setTimeout(function() {
+        copyIcon.style.display = 'inline';
+        checkIcon.style.display = 'none';
+    }, 2000); // Reset after 2 seconds
+}
+
+</script>
+	<div class="content-wraper">
+		<div class="content-fullwidth">
+		<p>
+NBC Sports Philadelphia is the leading regional sports network serving the greater Philadelphia area, providing in-depth coverage of local professional and collegiate teams. Originally launched as PRISM in 1976 and later rebranded under the Comcast SportsNet umbrella, the network has evolved into a central hub for sports fans in Pennsylvania,...</p>
+		</div>
+	</div>
+	<div class="content-wrapper content-wrapper-items" style="margin-bottom: 0;">
+    <div class="container" bis_skin_checked="1">
+        <!-- Button to Show Comment Form -->
+		<div class="add-and-comment">
+			<div>
+				<p>Add :</p>
+			</div>
+			<div id="showCommentFormButton" class="btn-show-form">
+				<span class="report-container">
+					<i class="fas fa-exclamation-circle"></i>
+					<span class="report-text">Report</span>
+				</span>
+			</div>
+		</div>
+
+				
+		<div class="nav_items_module" bis_skin_checked="1">
+			<div class="social-icons">
+				<span class="share-text">Shared</span>
+				<a href="https://t.me/share/url?url=https://stmify.com/live-tv/nbc-sports-philadelphia/&text=NBC Sports Philadelphia" target="_blank">
+					<i class="fab fa-telegram-plane"></i>
+				</a>
+				<a href="https://twitter.com/intent/tweet?url=https://stmify.com/live-tv/nbc-sports-philadelphia/&text=NBC Sports Philadelphia" target="_blank">
+					<i class="fab fa-twitter"></i>
+				</a>
+				<a href="https://www.instagram.com/?url=https://stmify.com/live-tv/nbc-sports-philadelphia/" target="_blank">
+					<i class="fab fa-instagram"></i>
+				</a>
+				<a href="https://www.facebook.com/sharer/sharer.php?u=https://stmify.com/live-tv/nbc-sports-philadelphia/" target="_blank">
+					<i class="fab fa-facebook-f"></i>
+				</a>
+			</div>
+		</div>
+    </div>
+</div>
+
+<!-- Comment Form Modal -->
+		<div id="commentModal" class="modal">
+			<div class="modal-comment">
+				<span class="comment-close">&times;</span>
+				<div class="comment-form">
+						<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Report an Issue with NBC Sports Philadelphia <small><a rel="nofollow" id="cancel-comment-reply-link" href="/live/?stream=3066#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://stmify.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes">For any concern and issue about NBC Sports Philadelphia in our Site, please send us your email at <a href="/cdn-cgi/l/email-protection#50232520203f22241023243d3936297e333f3d"><span class="__cf_email__" data-cfemail="2e5d5b5e5e415c5a6e5d5a43474857004d4143">[email&#160;protected]</span></a>.</p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
+<div class="comment-form-issue">
+            <label for="issue">Select the Issue <span class="required">*</span></label>
+            <select name="issue" id="issue" required>
+                <option value="" disabled selected>Select the issue</option>
+                <option value="The Station is Not Working">The Station is Not Working</option>
+                <option value="Stream Update Link">Stream Update Link</option>
+                <option value="Incorrect Stream Link">Incorrect Stream Link</option>
+                <option value="The Station Data is Incorrect">The Station Data is Incorrect</option>
+                <option value="Other Issue">Other Issue</option>
+            </select>
+        </div>
+<p class="comment-form-message">
+                <label for="comment">Message <span class="required">*</span></label>
+                <textarea id="comment" name="comment" cols="45" rows="8" required></textarea>
+            </p><p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I report.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Send" /> <input type='hidden' name='comment_post_ID' value='3066' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="154"/><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+					</div>
+			</div>
+		</div>
+
+
+        <div id="comments" class="content-wraper comments-list" style="display: none;">
+		
+            <div class="report-specs">
+			                    <ol id="custom-comment-list">
+                                    </ol>
+
+                            </div>
+        </div>
+        	
+<div class="similar-wraper">
+	        <div class="container welcome">
+            <h2>Similar Posts</h2>
+                    </div>
+        <div class="container front-item">
+            <div class="content-wrapper leatest-content1">
+                        <div class="item-wrapper leatest-item1">
+                    <div class="img-wrapper">
+                        <a href="https://stmify.com/live/?stream=3062">
+                        							<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/583-s.webp" class="attachment-live-tv size-live-tv wp-post-image" alt="" decoding="async" srcset="https://stmify.com/wp-content/uploads/2025/04/583-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/04/583-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/583-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/583-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/583-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/583-s-150x84.webp 150w" sizes="(max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                        </a>
+                    </div>
+                    <span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live/?stream=3062">
+							<h2>NBC Sports Bay Area</h2>
+						</a>
+					</div>
+                </div>
+                        <div class="item-wrapper leatest-item1">
+                    <div class="img-wrapper">
+                        <a href="https://stmify.com/live/?stream=3054">
+                        							<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/582-s.webp" class="attachment-live-tv size-live-tv wp-post-image" alt="" decoding="async" srcset="https://stmify.com/wp-content/uploads/2025/03/582-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/582-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/582-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/582-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/582-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/582-s-150x84.webp 150w" sizes="(max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                        </a>
+                    </div>
+                    <span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live/?stream=3054">
+							<h2>NBC Sports Boston</h2>
+						</a>
+					</div>
+                </div>
+                        <div class="item-wrapper leatest-item1">
+                    <div class="img-wrapper">
+                        <a href="https://stmify.com/live/?stream=3004">
+                        							<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/571-s.webp" class="attachment-live-tv size-live-tv wp-post-image" alt="" decoding="async" srcset="https://stmify.com/wp-content/uploads/2025/03/571-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/571-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/571-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/571-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/571-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/571-s-150x84.webp 150w" sizes="(max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                        </a>
+                    </div>
+                    <span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live/?stream=3004">
+							<h2>Fubo Sports Network</h2>
+						</a>
+					</div>
+                </div>
+                        <div class="item-wrapper leatest-item1">
+                    <div class="img-wrapper">
+                        <a href="https://stmify.com/live/?stream=1485">
+                        							<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/11/266-s.webp" class="attachment-live-tv size-live-tv wp-post-image" alt="" decoding="async" srcset="https://stmify.com/wp-content/uploads/2024/11/266-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/11/266-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/11/266-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/11/266-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/11/266-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/11/266-s-150x84.webp 150w" sizes="(max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                        </a>
+                    </div>
+                    <span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live/?stream=1485">
+							<h2>WWE Network</h2>
+						</a>
+					</div>
+                </div>
+                        <div class="item-wrapper leatest-item1">
+                    <div class="img-wrapper">
+                        <a href="https://stmify.com/live/?stream=2572">
+                        							<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/02/493-s.webp" class="attachment-live-tv size-live-tv wp-post-image" alt="" decoding="async" srcset="https://stmify.com/wp-content/uploads/2025/02/493-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/02/493-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/02/493-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/02/493-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/02/493-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/02/493-s-150x84.webp 150w" sizes="(max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                        </a>
+                    </div>
+                    <span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live/?stream=2572">
+							<h2>NFL Network</h2>
+						</a>
+					</div>
+                </div>
+                        <div class="item-wrapper leatest-item1">
+                    <div class="img-wrapper">
+                        <a href="https://stmify.com/live/?stream=2508">
+                        							<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/01/482-s.webp" class="attachment-live-tv size-live-tv wp-post-image" alt="" decoding="async" srcset="https://stmify.com/wp-content/uploads/2025/01/482-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/01/482-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/01/482-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/01/482-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/01/482-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/01/482-s-150x84.webp 150w" sizes="(max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                        </a>
+                    </div>
+                    <span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live/?stream=2508">
+							<h2>ESPN3</h2>
+						</a>
+					</div>
+                </div>
+                        <div class="item-wrapper leatest-item1">
+                    <div class="img-wrapper">
+                        <a href="https://stmify.com/live/?stream=2465">
+                        							<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/01/474-s.webp" class="attachment-live-tv size-live-tv wp-post-image" alt="" decoding="async" srcset="https://stmify.com/wp-content/uploads/2025/01/474-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/01/474-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/01/474-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/01/474-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/01/474-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/01/474-s-150x84.webp 150w" sizes="(max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                        </a>
+                    </div>
+                    <span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live/?stream=2465">
+							<h2>BeIN Sports 3</h2>
+						</a>
+					</div>
+                </div>
+                        <div class="item-wrapper leatest-item1">
+                    <div class="img-wrapper">
+                        <a href="https://stmify.com/live/?stream=2461">
+                        							<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/01/473-s.webp" class="attachment-live-tv size-live-tv wp-post-image" alt="" decoding="async" srcset="https://stmify.com/wp-content/uploads/2025/01/473-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/01/473-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/01/473-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/01/473-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/01/473-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/01/473-s-150x84.webp 150w" sizes="(max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                        </a>
+                    </div>
+                    <span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live/?stream=2461">
+							<h2>BeIN Sports 2</h2>
+						</a>
+					</div>
+                </div>
+                        <div class="item-wrapper leatest-item1">
+                    <div class="img-wrapper">
+                        <a href="https://stmify.com/live/?stream=2458">
+                        							<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/01/472-s.webp" class="attachment-live-tv size-live-tv wp-post-image" alt="" decoding="async" srcset="https://stmify.com/wp-content/uploads/2025/01/472-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/01/472-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/01/472-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/01/472-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/01/472-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/01/472-s-150x84.webp 150w" sizes="(max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                        </a>
+                    </div>
+                    <span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live/?stream=2458">
+							<h2>BeIN Sports 1</h2>
+						</a>
+					</div>
+                </div>
+                        <div class="item-wrapper leatest-item1">
+                    <div class="img-wrapper">
+                        <a href="https://stmify.com/live/?stream=2158">
+                        							<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/01/422-s.webp" class="attachment-live-tv size-live-tv wp-post-image" alt="" decoding="async" srcset="https://stmify.com/wp-content/uploads/2025/01/422-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/01/422-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/01/422-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/01/422-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/01/422-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/01/422-s-150x84.webp 150w" sizes="(max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                        </a>
+                    </div>
+                    <span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live/?stream=2158">
+							<h2>Willow Sports</h2>
+						</a>
+					</div>
+                </div>
+                    </div>
+        </div>
+    </div>
+                </main>
+
+<style>
+.content-wrapper, .fm-content, .archive-content {
+    margin-bottom: 50px;
+}
+</style>
+    <footer>
+	        <div class="container">
+            <div class="footer-top">
+			<div class="flex-child-ft item1">        <div class="flex-child-ft item1">
+                            <h4>Follow Us</h4>
+                                        <p>Stay connected with us on social media for the latest updates and news.</p>
+                        <div class="social-icons">
+                                    <a href="https://t.me/stmify" target="blank"><i class="fab fa-telegram-plane"></i></a>
+                                                    <a href="https://x.com/StmifyNetwork" target="blank"><i class="fab fa-twitter"></i></a>
+                                                    <a href="https://www.instagram.com/stmify.network/" target="blank"><i class="fab fa-instagram"></i></a>
+                                                    <a href="https://facebook.com/stmify.network" target="blank"><i class="fab fa-facebook-f"></i></a>
+                                                    <a href="https://www.youtube.com/@StmifyNetwork" target="blank"><i class="fab fa-youtube"></i></a>
+                            </div>
+			<div class="badge">
+								
+									<div class="dmca-badge">
+						<a href="//www.dmca.com/Protection/Status.aspx?ID=c942bf85-f458-43b5-8650-9efd10fa96fc" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/dmca-badge-w150-5x1-08.png?ID=c942bf85-f458-43b5-8650-9efd10fa96fc" alt="DMCA.com Protection Status" /></a>    <!-- Display DMCA Badge -->
+					</div>
+							</div>
+        </div>
+        </div>			<div class="flex-child-ft item2"><h4>Resources</h4><div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-1606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1606"><a href="https://stmify.com/login/">Login</a></li>
+<li id="menu-item-467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a href="https://stmify.com/register/">Register</a></li>
+<li id="menu-item-385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385"><a href="https://stmify.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-857"><a href="https://stmify.com/requests/">Request a Channel</a></li>
+</ul></div></div>			<div class="flex-child-ft item3"><h4>Legal</h4><div class="menu-menu-2-container"><ul id="menu-menu-2" class="menu"><li id="menu-item-468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-468"><a href="https://stmify.com/about-us/">About Us</a></li>
+<li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="https://stmify.com/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="https://stmify.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="https://stmify.com/terms-and-conditions/">Terms and Conditions</a></li>
+</ul></div></div>			<div class="flex-child-ft item4"><h4>Account</h4><div class="menu-menu-3-container"><ul id="menu-menu-3" class="menu"><li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="https://stmify.com/user-profile/">My Account</a></li>
+<li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348"><a href="https://stmify.com/favorite-tv/">Favorite TV Channels</a></li>
+<li id="menu-item-347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347"><a href="https://stmify.com/favorite-radios/">Favorite Radios</a></li>
+<li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-349"><a href="https://stmify.com/favorite-event/">Favorite Live Event</a></li>
+</ul></div></div>			<div class="flex-child-ft item5">        <div class="flex-child-ft item5">
+							<a href="https://stmify.com/" aria-label="Stmify Home">
+					<img 
+						src="https://stmify.com/wp-content/themes/stmify/assets/img/Stmify_Logo_Title_White-1.png" 
+						alt="Stmify Logo"
+						width="150" 
+						height="55" 
+						loading="lazy" 
+						decoding="async" 
+						fetchpriority="high" 
+					>
+				</a>
+			
+            <p>Welcome to Stmify, your premier destination for live TV streaming.</p>
+                            <p><i class="fas fa-envelope"></i> <a href="/cdn-cgi/l/email-protection#6c1f191c1c031e182c1f1801050a15420f0301"><span class="__cf_email__" data-cfemail="d8abada8a8b7aaac98abacb5b1bea1f6bbb7b5">[email&#160;protected]</span></a></p>
+                                </div>
+        </div>            </div>
+			<div class="footer-disclaimer"><p class="note"><b><span class="red-text">N.B.</span></b> - This website is not affiliated with any television network. All content remains the property of its respective owners. We do not take responsibility for any material featured on this site. The audiovisual content available here is beyond our control or influence. Viewers are advised to exercise discretion when interpreting the information provided.</p></div>        </div>
+	
+		<div class="ft-copyright">
+		<div class="copyright">
+			<div style="float: left;">
+			  <input type="checkbox" class="checkbox" id="checkbox">
+			  <label for="checkbox" class="checkbox-label">
+				<i class="fas fa-moon"></i>
+				<i class="fas fa-sun"></i>
+				<span class="ball"></span>
+			  </label>
+			</div>
+			<div class="ft-left">
+				<p>© 2024-2025 Stmify TV. All Rights Reserved. Designed &amp; Develop by <a href="https://fb.com/ild3bnath" target="blank">liton</a></p>
+			</div>
+		</div>
+		</div>
+		<!-- Chat Icon -->
+<div id="chat-toggle" style="display: none;">
+  <i class="fab fa-facebook-messenger"></i>
+</div>
+
+<!-- Chatbox Container -->
+<div id="chatbox-container">
+  <div class="chatbox-header" style="">
+    <i class="fas fa-keyboard"></i> Live Support
+  </div>
+  <div id="chatbox"></div>
+  <div class="chatbox-input">
+    <input type="text" id="username" placeholder="Username" />
+    <input type="text" id="message" placeholder="Type message..." />
+    <button onclick="sendMessage()">Send</button>
+  </div>
+    <p class="powered-by">POWERED BY STMIFY</p> <!-- Added a class here -->
+</div>
+
+<style>
+  #chat-toggle {
+    position: fixed;
+    bottom: 60px;
+    right: 20px;
+    background-color: #1ed760;
+    color: #171c24;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 9999;
+  }
+  
+  #chatbox-container {
+    position: fixed;
+    bottom: 120px;
+    right: 20px;
+    width: 300px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: none;
+    z-index: 9998;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  }
+  
+  .chatbox-header {
+	background: #1ed760;
+	color: #171c24;
+	padding: 10px;
+	border-radius: 10px 10px 0 0;
+  }
+  
+  #chatbox{
+	height: 250px;
+	overflow-y: auto;
+	padding: 10px;
+	font-size: 14px; 
+  }
+  
+  .chatbox-input {
+	padding: 10px;
+	border-top: 1px solid #ccc;  
+  }
+  
+.chatbox-input input[type="text"] {
+  border: 1px solid #ccc;
+  outline: none;
+  font-size: 12px;
+  padding: 6px 10px;
+  border-radius: 5px;
+  transition: border-color 0.3s, box-shadow 0.3s;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Username field */
+.chatbox-input #username {
+  width: 31%;
+  margin-right: 5px;
+}
+
+/* Message field */
+.chatbox-input #message {
+  width: 43%;
+  margin-right: 5px;
+}
+
+/* Focus effect */
+.chatbox-input input[type="text"]:focus {
+  border-color: #1ed760;
+  box-shadow: 0 0 5px rgba(30, 215, 96, 0.5);
+}
+
+/* Optional: Dark mode style */
+.dark .chatbox-input input[type="text"] {
+  background-color: #2a2a2a;
+  color: #fff;
+  border: 1px solid #444;
+}
+
+  
+  .chatbox-input button {
+	padding: 5px 8px;
+	background: #1ed760;
+	border: none;
+	color: #171c24;
+	cursor: pointer;
+	width: 19%;
+	border-radius: 5px; 
+  }
+  
+  .powered-by {
+    font-size: 12px; /* You can adjust this size as needed */
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .dark #chat-toggle,
+  .dark .chatbox-header,
+  .dark #chatbox,
+  .dark .chatbox-input button  {
+	color: #fff;
+  }
+  
+  .dark #chatbox-container {
+	background-color: #333;
+	border: 1px solid #3f3f3f;
+	box-shadow: 0 5px 15px rgb(253 253 253 / 30%);
+  }
+
+  .dark .chatbox-input {
+	border-top: 1px solid #3f3f3f;
+  }
+  
+@media screen and (max-width: 900px) {
+	#chat-toggle {
+		width: 45px;
+		height: 45px;
+		font-size: 20px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	#chat-toggle {
+		width: 40px;
+		height: 40px;
+		font-size: 18px;
+	}
+}
+
+</style>
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+const chatToggle = document.getElementById('chat-toggle');
+const chatContainer = document.getElementById('chatbox-container');
+const chatbox = document.getElementById('chatbox');
+const usernameInput = document.getElementById('username');
+const messageInput = document.getElementById('message');
+
+// Show or hide the chatbox when the icon is clicked
+chatToggle.addEventListener('click', () => {
+  const isHidden = chatContainer.style.display === 'none' || chatContainer.style.display === '';
+
+  // Toggle chatbox visibility
+  chatContainer.style.display = isHidden ? 'block' : 'none';
+
+  // Toggle icon
+  if (isHidden) {
+    icon.classList.remove('fab', 'fa-facebook-messenger');
+    icon.classList.add('fa', 'fa-times');
+  } else {
+    icon.classList.remove('fa', 'fa-times');
+    icon.classList.add('fab', 'fa-facebook-messenger');
+  }
+});
+
+// Check if username is stored in localStorage
+if (localStorage.getItem('username')) {
+  usernameInput.value = localStorage.getItem('username');
+  usernameInput.disabled = true; // Disable the username input after the first entry
+}
+
+// Variable to track if the user is manually scrolling
+let isUserScrolling = false;
+
+// Check if the user is at the bottom of the chatbox
+function isAtBottom() {
+  return chatbox.scrollHeight - chatbox.scrollTop === chatbox.clientHeight;
+}
+
+// Event listener to detect user scroll
+chatbox.addEventListener('scroll', () => {
+  // If the user scrolls up, stop auto-scrolling
+  if (chatbox.scrollTop < chatbox.scrollHeight - chatbox.clientHeight - 10) {
+    isUserScrolling = true;
+  } else {
+    isUserScrolling = false;
+  }
+});
+
+// Fetch chat logs from the server
+function fetchChats() {
+  const xhr = new XMLHttpRequest();
+  xhr.open('POST', 'https://stmify.com/wp-content/themes/stmify/assets/chatbox.php', true);
+  xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+  xhr.onload = function () {
+    if (xhr.status === 200) {
+      const previousScrollHeight = chatbox.scrollHeight; // Get the scroll height before updating content
+
+      chatbox.innerHTML = xhr.responseText; // Update the chatbox content
+
+      // Scroll to the bottom only if the user is at the bottom or there is new content at the bottom
+      if (!isUserScrolling || chatbox.scrollHeight > previousScrollHeight) {
+        chatbox.scrollTop = chatbox.scrollHeight;
+      }
+    }
+  };
+  xhr.send('action=fetch');
+}
+
+// Send message to the server
+function sendMessage() {
+  let username = usernameInput.value.trim();
+  let message = messageInput.value.trim();
+
+  if (username === '' || message === '') return;
+
+  // Store username in localStorage if it's not already saved
+  if (!localStorage.getItem('username')) {
+    localStorage.setItem('username', username);
+  }
+
+  const xhr = new XMLHttpRequest();
+  xhr.open('POST', 'https://stmify.com/wp-content/themes/stmify/assets/chatbox.php', true);
+  xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+  xhr.onload = function () {
+    if (xhr.status === 200) {
+      messageInput.value = ''; // Clear the message input
+      fetchChats(); // Refresh the chatbox with the new message
+    }
+  };
+  xhr.send('action=send&username=' + encodeURIComponent(username) + '&message=' + encodeURIComponent(message));
+}
+
+// Auto-refresh every second
+setInterval(fetchChats, 1000);
+
+// Initial fetch of chat messages and scroll to the bottom
+setTimeout(() => {
+  fetchChats();
+  chatbox.scrollTop = chatbox.scrollHeight; // Scroll to the bottom immediately
+}, 100);
+</script> 
+			
+		<div class="scroll-to-top"><i class="fas fa-chevron-up"></i></div>
+    </footer><div class="birthday-box">
+    </div>
+
+    <!-- jQuery -->
+    <script defer src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- External JavaScript files -->
+    <script defer src="https://stmify.com/wp-content/themes/stmify/assets/js/leatest-content.js"></script>
+    <script defer src="https://stmify.com/wp-content/themes/stmify/assets/js/fm-content.js"></script>
+    <script defer src="https://stmify.com/wp-content/themes/stmify/assets/js/scroll-to-top.js"></script>
+    <script defer src="https://stmify.com/wp-content/themes/stmify/assets/js/script.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".lazy-bg").forEach(el => {
+      const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            const bg = entry.target.getAttribute("data-bg");
+            if (bg) {
+              entry.target.style.backgroundImage = `url('${bg}')`;
+              entry.target.removeAttribute("data-bg");
+              observer.unobserve(entry.target);
+            }
+          }
+        });
+      }, {
+        rootMargin: '0px',
+        threshold: 0.1
+      });
+      observer.observe(el);
+    });
+  });
+</script>
+
+	<script>
+		const savedMode = localStorage.getItem("mode");
+
+		// Apply the saved mode as soon as possible
+		if (savedMode === "dark") {
+			document.body.classList.add("dark");
+		} else {
+			document.body.classList.add("light");
+		}
+
+		window.addEventListener("DOMContentLoaded", () => {
+			const checkbox = document.getElementById("checkbox");
+
+			// Ensure the checkbox reflects the saved mode
+			if (savedMode === "dark") {
+				checkbox.checked = true;
+			} else {
+				checkbox.checked = false;
+			}
+
+			// Add event listener to toggle modes and save the preference
+			checkbox.addEventListener("change", () => {
+				if (checkbox.checked) {
+					document.body.classList.add("dark");
+					document.body.classList.remove("light");
+					localStorage.setItem("mode", "dark");
+				} else {
+					document.body.classList.add("light");
+					document.body.classList.remove("dark");
+					localStorage.setItem("mode", "light");
+				}
+			});
+		});
+	</script>
+    <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/stmify\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+        <script type="text/javascript">
+          function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+              pageLanguage: 'en',
+              layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT
+            }, 'google_translate_element');
+          }
+        </script>
+        <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        <script src="https://cdn.plyr.io/3.7.2/plyr.js" defer></script><script src="https://cdn.jsdelivr.net/npm/hls.js@latest" defer></script><script src="https://cdn.jsdelivr.net/npm/mpegts.js@latest" defer></script><script src="https://cdn.dashjs.org/latest/dash.all.min.js" defer></script><script type="text/javascript" id="stmify-player-js-extra">
+/* <![CDATA[ */
+var streams = {"embed-1":"\/\/cdn.stmify.com\/embed.php?id=NBC_Sports_Philadelphia"};
+/* ]]> */
+</script>
+<script src="https://stmify.com/wp-content/themes/stmify/assets/js/stmify-player.js" defer></script><script type="text/javascript" id="rating-script-js-extra">
+/* <![CDATA[ */
+var ratingNonce = {"nonce":"659acd6e9d","ajaxurl":"https:\/\/stmify.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script src="https://stmify.com/wp-content/themes/stmify/assets/js/rating.js" defer></script><script type="text/javascript" id="toggle-comments-script-handle-js-extra">
+/* <![CDATA[ */
+var stmifyTranslations = {"showReports":"Show Reports","hideReports":"Hide Reports"};
+/* ]]> */
+</script>
+<script src="https://stmify.com/wp-content/themes/stmify/assets/js/toggle-comments.js" defer></script><script src="https://stmify.com/wp-content/themes/stmify/assets/js/load-reports.js" defer></script><script type="text/javascript" id="stmify-like-script-js-extra">
+/* <![CDATA[ */
+var stmify_ajax_obj = {"ajax_url":"https:\/\/stmify.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script src="https://stmify.com/wp-content/themes/stmify/assets/js/like-comments.js" defer></script><script src="https://stmify.com/wp-content/themes/stmify/assets/js/language-switcher.js" defer></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"95f1e76c284be1ba","version":"2025.6.2","r":1,"token":"a24ce5e7982141fa8549c97027592476","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}}}' crossorigin="anonymous"></script>
+</body>
+</html>
